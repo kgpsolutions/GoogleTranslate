@@ -1,0 +1,6 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "app_google_translate.pbt";
+@end;
+DefaultTarget "app_google_translate.pbt";
+DefaultRemoteTarget "app_google_translate.pbt";
